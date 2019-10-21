@@ -1,6 +1,6 @@
 ---
 templateKey: product-page
-title: Our Furniture
+title: Our Furnitures
 image: /img/jumbotron.jpg
 heading: Great coffee with a conscience
 description: >-
